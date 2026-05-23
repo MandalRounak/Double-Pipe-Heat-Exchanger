@@ -59,4 +59,4 @@ The project leverages numerical ordinary differential equation (ODE) suites and 
 Numerical investigations highlight how individual design variables dictate performance limits:
 
 ### Dominant Resistance Scenarios
-1. **Inner Convection Dominance:** At low inner convection values (e.g., $h_i = 50\text{ W/m}^2\text{K}$, $h_o = 1000\text{ W/m}^2\
+1. **Inner Convection Dominance:** At low inner convection values (e.g., $h_i = 50\text{ W/m}^2\text{K}$, $h_o = 1000\text{ W/m}^2\text{K}$)
